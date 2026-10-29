@@ -19,6 +19,10 @@
   ],
   "author": "Soumya Bhandare (krishyaa06)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishyaa06/echoarena-player/issues"
+  },
+  "homepage": "https://krishyaa06.github.io/prism-bots-panel/#/bot/echoarena",
   "engines": {
     "node": ">=18.17"
   },
